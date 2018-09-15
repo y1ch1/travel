@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Marker Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Marker-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill-opacity="0.1" fill="#FF0000" cx="20" cy="20" r="15"></circle>
+        <circle id="Oval-2" fill-opacity="0.8" fill="#FF0000" cx="20" cy="20" r="1.5"></circle>
+    </g>
+</svg>
